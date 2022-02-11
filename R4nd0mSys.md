@@ -2,7 +2,7 @@
 
 Give a short description about yourself
 
-![](https://komarev.com/ghpvc/?username=bisevox03&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=R4nd0mSys&color=blueviolet)
 
 ## 💼 Technologies and Tools
 
@@ -22,13 +22,13 @@ Give a short description about yourself
 
 ## &#x1f4c8; My GitHub Stats
   <br/>
-<p align="center"><a href="https://github.com/bisevox03/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=bisevox03&amp;show_icons=true&amp;count_private=true&amp;theme=gruvbox&amp;hide_border=true&amp;bg_color=0D1117" alt="Bisevox's Github Stats" /></a></p>
+<p align="center"><a href="https://github.com/R4nd0mSys/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=R4nd0mSys&amp;show_icons=true&amp;count_private=true&amp;theme=gruvbox&amp;hide_border=true&amp;bg_color=0D1117" alt="Bisevox's Github Stats" /></a></p>
 
 <br/>
 
 
 <p align="center">
-    <a href="https://github.com/bisevox03/github-readme-stats"><img alt="Bisevox's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisevox03&langs_count=8&count_private=true&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/R4nd0mSys/github-readme-stats"><img alt="Bisevox's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4nd0mSys&langs_count=8&count_private=true&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 <br/>
