@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-Give a short description about yourself
+Cyber Security Researcher with a strong interest in Ethical Hacking , Penetration Testing, vulnerability analysis and network security. Currently I am working on Tryhackme and Hackthebox platform to solve more and more boxes for increasing my knowledge in this field.
 
 ![](https://komarev.com/ghpvc/?username=R4nd0mSys&color=blueviolet)
 
